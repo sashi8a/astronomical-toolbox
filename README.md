@@ -11,7 +11,7 @@ Designed and developed by Sashi Ayyalasomayajula, this repository serves as an e
 Each subdirectory is a standalone project with its own dataset pipelines, training logic, models, and visualizations.
 
 Here's a roadmap below: 
-
+```
 astronomical-toolbox/
 │
 ├── lensing_inversion/ # 🔭 Neural Operator for Gravitational Lensing Inversion
@@ -21,7 +21,7 @@ astronomical-toolbox/
 ├── pde_discovery_galaxies/ # 🧠 PDE Discovery for Galaxy Formation Processes
 ├── generative_lensing_modeling/ # 🔁 Physics-Informed Generative Models for Lensing
 └── shared/ # 🧰 Utility modules: metrics, plotting, preprocessing
-
+```
 ---
 
 ## 🚀 Project Goals
