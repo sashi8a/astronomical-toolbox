@@ -77,5 +77,6 @@ This repo is currently under active development. Open to collaborations in:
 ---
 
 ## 🧑‍🚀 Author
-Sashi Ayyalasomayajula Researcher | ML Engineer | Astrophysics Enthusiast
+Sashi Ayyalasomayajula  
+Researcher| ML Engineer | Astrophysics Enthusiast  
 ✉️ sashi8a@gmail.com
