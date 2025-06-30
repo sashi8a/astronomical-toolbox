@@ -56,3 +56,26 @@ cd astronomical-toolbox
 # Navigate into a specific project to get started  (example below)
 cd lensing_inversion/
 pip install -r requirements.txt
+```
+---
+
+## 🔭 Current Status
+- ✅ Project 1: lensing_inversion — in progress
+
+- 🔜 Other projects scaffolding coming soon
+
+---
+## 🤝 Contributions
+This repo is currently under active development. Open to collaborations in:
+
+- SciML model architecture design
+
+- Physics-based ML evaluation
+
+- Interactive scientific visualizations
+
+---
+
+## 🧑‍🚀 Author
+Sashi Ayyalasomayajula Researcher | ML Engineer | Astrophysics Enthusiast
+✉️ sashi8a@gmail.com
