@@ -1,6 +1,6 @@
 # 🌌 astronomical-toolbox 
 #### *The Universe is not only stranger than we imagine — it is stranger than we can imagine.*
-
+---
 A modular suite of **Scientific Machine Learning (SciML)** projects focused on solving cutting-edge problems in **astronomy and astrophysics** using deep learning, neural operators, and generative modeling.
 
 Designed and developed by Sashi Ayyalasomayajula, this repository serves as an evolving research sandbox, enabling rapid prototyping and benchmarking of advanced ML architectures across diverse astrophysical domains — from gravitational lensing and galaxy formation to exoplanet transit modeling and cosmological simulations.
