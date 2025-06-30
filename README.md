@@ -1,4 +1,5 @@
-# 🌌 astronomical-toolbox
+# 🌌 astronomical-toolbox 
+#### *The Universe is not only stranger than we imagine — it is stranger than we can imagine.*
 
 A modular suite of **Scientific Machine Learning (SciML)** projects focused on solving cutting-edge problems in **astronomy and astrophysics** using deep learning, neural operators, and generative modeling.
 
