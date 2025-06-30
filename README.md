@@ -52,7 +52,6 @@ For each project:
 git clone https://github.com/sashi8a/astronomical-toolbox.git
 cd astronomical-toolbox
 
-# Navigate into a specific project to get started
-(example)
+# Navigate into a specific project to get started  (example below)
 cd lensing_inversion/
 pip install -r requirements.txt
